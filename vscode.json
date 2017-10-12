@@ -6,7 +6,7 @@
     "atomKeymap.promptV3Features": true,
     "editor.multiCursorModifier": "ctrlCmd",
     "editor.formatOnPaste": false,
-    "workbench.colorTheme": "Atom One Dark",
+    "workbench.colorTheme": "One Dark Pro",
     "editor.minimap.enabled": false,
     "workbench.iconTheme": "eq-material-theme-icons",
     "explorer.openEditors.visible": 0,
@@ -23,7 +23,7 @@
     "workbench.startupEditor": "newUntitledFile"
 }
 
-[keybindings.json]
+{"keybindings.json": "below"}
 
 [
 	{
