@@ -1,0 +1,24 @@
+{
+    "editor.fontSize": 16,
+    "window.menuBarVisibility": "toggle",
+    "workbench.statusBar.visible": true,
+    "workbench.activityBar.visible": false,
+    "atomKeymap.promptV3Features": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.formatOnPaste": false,
+    "workbench.colorTheme": "Atom One Dark",
+    "editor.minimap.enabled": false,
+    "workbench.iconTheme": "eq-material-theme-icons",
+    "explorer.openEditors.visible": 0,
+    "editor.tabCompletion": true,
+    "editor.lineHeight": 22,
+    "editor.tabSize": 2,
+    "editor.insertSpaces": false,
+    "editor.wordWrap": "on",
+    "files.associations": {
+        "*.js": "javascriptreact",
+        "*.html.erb": "html"
+    },
+    "window.zoomLevel": 0,
+    "workbench.startupEditor": "newUntitledFile"
+}
