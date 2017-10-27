@@ -1,29 +1,24 @@
 {
-    "editor.fontSize": 16,
-    "window.menuBarVisibility": "toggle",
-    "workbench.statusBar.visible": true,
-    "workbench.activityBar.visible": false,
-    "atomKeymap.promptV3Features": true,
-    "editor.multiCursorModifier": "ctrlCmd",
-    "editor.formatOnPaste": false,
-    "workbench.colorTheme": "One Dark Pro",
-    "editor.minimap.enabled": false,
-    "workbench.iconTheme": "eq-material-theme-icons",
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.iconTheme": "material-icon-theme",
+    "material-icon-theme.folders.icons": "classic",
     "explorer.openEditors.visible": 0,
+    "workbench.colorTheme": "One Dark Pro",
     "editor.tabCompletion": true,
-    "editor.lineHeight": 22,
+    "workbench.activityBar.visible": false,
     "editor.tabSize": 2,
     "editor.insertSpaces": false,
     "editor.wordWrap": "on",
     "files.associations": {
-        "*.js": "javascriptreact",
-        "*.html.erb": "html"
+            "*.js": "javascriptreact",
+            "*.html.erb": "html"
     },
-    "window.zoomLevel": 0,
-    "workbench.startupEditor": "newUntitledFile"
+    "editor.fontSize": 14,
+    "editor.minimap.enabled": false,
+    "typescript.check.npmIsInstalled": false
 }
 
-{"keybindings.json": "below"}
+
 
 [
 	{
