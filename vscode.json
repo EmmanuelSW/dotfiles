@@ -1,29 +1,34 @@
 {
-    "workbench.startupEditor": "newUntitledFile",
-    "workbench.iconTheme": "material-icon-theme",
-    "material-icon-theme.folders.icons": "classic",
-    "explorer.openEditors.visible": 0,
-    "workbench.colorTheme": "One Dark Pro",
-    "editor.tabCompletion": true,
-    "workbench.activityBar.visible": false,
-    "editor.tabSize": 2,
-    "editor.insertSpaces": false,
-    "editor.wordWrap": "on",
-    "files.associations": {
-            "*.js": "javascriptreact",
-            "*.html.erb": "html"
-    },
-    "editor.fontSize": 14,
-    "editor.minimap.enabled": false,
-    "typescript.check.npmIsInstalled": false
+  "workbench.startupEditor": "newUntitledFile",
+  "workbench.iconTheme": "material-icon-theme",
+  "explorer.openEditors.visible": 0,
+  "editor.tabCompletion": true,
+  "workbench.activityBar.visible": false,
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "editor.wordWrap": "on",
+  "editor.fontSize": 14,
+  "editor.minimap.enabled": false,
+  "workbench.colorTheme": "Palenight Theme",
+  "material-icon-theme.folders.theme": "classic",
+  "explorer.confirmDelete": false,
+  "files.autoSave": "onWindowChange",
+  "editor.fontFamily": "Input Mono",
+  "material-icon-theme.showReloadMessage": false,
+  "vetur.validation.template": false,
+  "explorer.confirmDragAndDrop": false,
+  "editor.autoIndent": true,
+  "workbench.statusBar.feedback.visible": false,
+  "editor.fontLigatures": true,
+  "window.zoomLevel": 0,
+  "emmet.includeLanguages": {
+    "erb": "html",
+    "html.erb": "html"
+  },
+  "files.associations": {
+    "*.ecr": "erb"
+  },
+  "editor.fontWeight": "normal",
+  "elixirLS.dialyzerEnabled": false,
+  "elixirLS.fetchDeps": false
 }
-
-
-
-[
-	{
-		"key": "ctrl+shift+space",
-		"command": "erb.toggleTags",
-		"when": "editorTextFocus && editorLangId == html"
-	}
-]
