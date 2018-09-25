@@ -15,7 +15,6 @@
   "files.autoSave": "onWindowChange",
   "editor.fontFamily": "Input Mono",
   "material-icon-theme.showReloadMessage": false,
-  "vetur.validation.template": false,
   "explorer.confirmDragAndDrop": false,
   "editor.autoIndent": true,
   "workbench.statusBar.feedback.visible": false,
@@ -27,8 +26,5 @@
   },
   "files.associations": {
     "*.ecr": "erb"
-  },
-  "editor.fontWeight": "normal",
-  "elixirLS.dialyzerEnabled": false,
-  "elixirLS.fetchDeps": false
+  }
 }
