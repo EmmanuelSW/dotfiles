@@ -1,30 +1,32 @@
 {
-  "workbench.startupEditor": "newUntitledFile",
-  "workbench.iconTheme": "material-icon-theme",
-  "explorer.openEditors.visible": 0,
-  "editor.tabCompletion": true,
-  "workbench.activityBar.visible": false,
-  "editor.tabSize": 2,
-  "editor.insertSpaces": true,
-  "editor.wordWrap": "on",
-  "editor.fontSize": 14,
-  "editor.minimap.enabled": false,
-  "workbench.colorTheme": "Palenight Theme",
-  "material-icon-theme.folders.theme": "classic",
-  "explorer.confirmDelete": false,
-  "files.autoSave": "onWindowChange",
-  "editor.fontFamily": "Input Mono",
-  "material-icon-theme.showReloadMessage": false,
-  "explorer.confirmDragAndDrop": false,
-  "editor.autoIndent": true,
-  "workbench.statusBar.feedback.visible": false,
-  "editor.fontLigatures": true,
-  "window.zoomLevel": 0,
-  "emmet.includeLanguages": {
-    "erb": "html",
-    "html.erb": "html"
-  },
-  "files.associations": {
-    "*.ecr": "erb"
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.iconTheme": "material-icon-theme",
+    "explorer.openEditors.visible": 0,
+    "editor.tabCompletion": "on",
+    "workbench.activityBar.visible": false,
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true,
+    "editor.wordWrap": "on",
+    "editor.fontSize": 14,
+    "editor.minimap.enabled": false,
+    "workbench.colorTheme": "Palenight Theme",
+    "material-icon-theme.folders.theme": "classic",
+    "explorer.confirmDelete": false,
+    "files.autoSave": "onWindowChange",
+    "editor.fontFamily": "SF Mono",
+    "material-icon-theme.showReloadMessage": false,
+    "explorer.confirmDragAndDrop": false,
+    "editor.autoIndent": true,
+    "workbench.statusBar.feedback.visible": false,
+    "window.zoomLevel": 0,
+    "emmet.includeLanguages": {
+      "erb": "html",
+      "html.erb": "html",
+      "javascript": "javascriptreact",
+      "vue": "html",
+    },
+    "files.associations": {
+      "*.ecr": "erb"
+    },
+    "editor.formatOnPaste": true
   }
-}
